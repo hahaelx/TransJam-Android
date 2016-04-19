@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TransJam</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_sample">Cologne attacks: Merkel proposes tougher migrant laws</string>
+    <string name="content_sample">German Chancellor Angela Merkel has proposed changes to make it easier to deport asylum-seekers who commit crimes, after the New Year\'s Eve sex attacks on women in Cologne.\n\nThe attacks, which victims say were carried out by men of North African and Arab appearance, have called into question her open-door migrant policy.The police\'s handling of the events has also been sharply criticised.\n\nThe anti-immigrant Pegida movement is due to protest in the city.\n\nMrs Merkel, speaking after a meeting of her Christian Democrat party leadership in Mainz, proposed tightening the law on denying the right of asylum for those who have committed crimes.\n\nUnder the new plans, those on probation could be deported too.\n\n"When crimes are committed, and people place themselves outside the law...there must be consequences," she told reporters after the meeting.\n\nUnder current German laws, asylum seekers are only forcibly sent back if they have been sentenced to at least three years, and providing their lives are not at risk in their countries of origin.\n\nThe move, which will still need parliamentary approval, follows the New Year\'s Eve attacks, which sparked outrage in Germany.\n\nVictims described chaos as dozens of sexual assaults and robberies were carried out with little apparent response from the authorities around the city\'s main station.\n\nTwenty-one people are being investigated for sexual assault.</string>>
+
+    <string name="myWords">My Words</string>
+    <string name="newJam">New Jam</string>
 </resources>
